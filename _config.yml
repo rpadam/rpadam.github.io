@@ -78,36 +78,43 @@ content:
         sub_title: Workiva
         caption: June 2021 - Present
         quote: >
-          TODO: Add quote about Workiva and Engineering Management.
+          As an Engineering Manager and leader, I've been lucky to work with many talented engineers. Leading them in their work and careers continues to be something that brings me joy.
         description: | # this will include new lines to allow paragraphs
-            TODO: Add description for role.
+            As an Engineering Manager at Workiva, I've lead the Developer Experience, Identity and Access Management, and Public APIs teams. These teams come with a diverse set of considerations and technologies that require different types of stakeholder and leadership engagement.
+            Workiva is an enterprise software company, where security and customer trust are everything. Identity and Access Management serves a critical role in upholding that customer trust by providing robust authentication and authorization options for every business user's needs.
+            TODO: Talk about Public APIs and Developer Experience teams
       - layout: left
         title: Senior Software Development Engineer in Test, Tech Lead
-        # link_text: workiva.com
         sub_title: Workiva
         caption: June 2017 - June 2021
         quote: >
-          TODO: Add quote about Role as a Senior SDET.
+          Being in a Senior SDET role allowed me to lead teams and more formally mentor other engineers in the engineering organization.
         description: | # this will include new lines to allow paragraphs
             TODO: Add description for role.
       - layout: left
         title: Software Development Engineer in Test
-        # link_text: workiva.com
         sub_title: Workiva
         caption: Jan 2014 - June 2017
         quote: >
-          TODO: Add quote about Role as an SDET.
+          I was in the first batch of engineers to be given the title of SDET as a engineer who has a focus on scalable quality practices in the engineer organization. This formative phase in my career saw me and other SDETs forging what the role would become to this day.
         description: | # this will include new lines to allow paragraphs
             TODO: Add description for role.
       - layout: left
         title: Quality Assurance Analyst Intern
-        # link_text: workiva.com
         sub_title: WebFilings
         caption: March 2012 - Jan 2014
         quote: >
-          TODO: Add quote about Role as a QA Intern.
+          Everything about my internship with WebFilings was an amazing and fun introduction. WebFilings was a blossoming startup that maintained a positive work culture where everyone worked and played hard.
         description: | # this will include new lines to allow paragraphs
-            TODO: Add description for role.
+            As a Quality Assurance Analyst Intern, I was given opportunities on par with that of full time Quality Assurance Analysts. I was entrusted with putting together testing plans for our software suites, writing automated tests, and making sure my teams were able to move quality code with expediancy.
+      - layout: left
+        title: IT Support and Front Desk
+        sub_title: Neurology Specialists LLC
+        caption: Jan 2008 - May 2009
+        quote: >
+          TODO: Add quote
+        description: | # this will include new lines to allow paragraphs
+            TODO: Add description
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
