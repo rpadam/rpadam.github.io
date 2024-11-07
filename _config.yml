@@ -43,7 +43,7 @@ linkedin_username: raphaelpauladam
 
 # About Section
 # about_title: About Me
-about_profile_image: images/DSC_5185.jpg
+about_profile_image: images/IMG_7815.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Raphael, and I'm an Engineering leader with 12 years of enterprise software experience and 7 years managing hybrid teams. I'm adept at driving developer productivity, infrastructure tooling, and scalability initiatives. I have a proven ability to lead high-performing teams, align technical strategy with business goals, and optimize engineering processes.
   
@@ -123,13 +123,14 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - 3D Printing
-      - Electronics and Hardware Tinkering
-      - Reading (Sci Fi)
+      While a lot of my passions involve software and people, I have other interests and hobbies that I enjoy:
+      - 3D Printing - Fun for tinkerers, 
+      - Electronics and Hardware Tinkering - Think Raspberry Pis and Arduinos
+      - Reading - Mostly Science Fiction these days
+      - Domestic and International Travel - I let my stomach guide me.
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Here I am eating raw pickled herring in Museumplein in Amsterdam.
+      ![Amsterdam](\images\IMG_7815.JPG "Amsterdam")
 
 # Footer
 footer_show_references: true
