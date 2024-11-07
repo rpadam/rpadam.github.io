@@ -43,7 +43,7 @@ linkedin_username: raphaelpauladam
 
 # About Section
 # about_title: About Me
-about_profile_image: images/DSC_5185.jpg
+about_profile_image: images/IMG_0764.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Raphael, and I'm an Engineering leader with 12 years of enterprise software experience and 7 years managing hybrid teams. I'm adept at driving developer productivity, infrastructure tooling, and scalability initiatives. I have a proven ability to lead high-performing teams, align technical strategy with business goals, and optimize engineering processes.
   
@@ -80,9 +80,10 @@ content:
         quote: >
           As an Engineering Manager and leader, I've been lucky to work with many talented engineers. Leading them in their work and careers continues to be something that brings me joy.
         description: | # this will include new lines to allow paragraphs
-            As an Engineering Manager at Workiva, I've lead the Developer Experience, Identity and Access Management, and Public APIs teams. These teams come with a diverse set of considerations and technologies that require different types of stakeholder and leadership engagement.
+            As an Engineering Manager, I've lead the Developer Experience, Identity and Access Management, and Public APIs teams. This comes with a diverse set of considerations and technologies that require different types of stakeholder and leadership engagement.
             Workiva is an enterprise software company, where security and customer trust are everything. Identity and Access Management serves a critical role in upholding that customer trust by providing robust authentication and authorization options for every business user's needs.
-            TODO: Talk about Public APIs and Developer Experience teams
+            Public APIs are a gateway into exciting automation opportunities for customers. Consistency and predictability with Workiva's Public APIs are critical for instilling confidence with customers.
+            Developer Experience takes a step back and looks at the internal engineering teams as a customer base. How do we service our engineers needs? How can we operate more efficiently as an R&D organization. It's a fun landscape filled with opportunities and eager stakeholders.
       - layout: left
         title: Senior Software Development Engineer in Test, Tech Lead
         sub_title: Workiva
@@ -90,7 +91,7 @@ content:
         quote: >
           Being in a Senior SDET role allowed me to lead teams and more formally mentor other engineers in the engineering organization.
         description: | # this will include new lines to allow paragraphs
-            TODO: Add description for role.
+            As a Senior SDET, I guided engineers and teams in adopting testing frameworks, while also having opportunities to mentor and manage engineers.
       - layout: left
         title: Software Development Engineer in Test
         sub_title: Workiva
@@ -98,7 +99,7 @@ content:
         quote: >
           I was in the first batch of engineers to be given the title of SDET as a engineer who has a focus on scalable quality practices in the engineer organization. This formative phase in my career saw me and other SDETs forging what the role would become to this day.
         description: | # this will include new lines to allow paragraphs
-            TODO: Add description for role.
+            TODO: Add Description.
       - layout: left
         title: Quality Assurance Analyst Intern
         sub_title: WebFilings
@@ -111,10 +112,10 @@ content:
         title: IT Support and Front Desk
         sub_title: Neurology Specialists LLC
         caption: Jan 2008 - May 2009
-        quote: >
-          TODO: Add quote
+        quote: #>
+          # TODO: Add quote
         description: | # this will include new lines to allow paragraphs
-            TODO: Add description
+            As IT Support and Front Desk at Neurology Specialists LLC, my responsibilies ranged from handling sensative patient information and scheduling, to addressing computer issues around the office.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -130,13 +131,16 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - 3D Printing
-      - Electronics and Hardware Tinkering
-      - Reading (Sci Fi)
+      While a lot of my passions involve software and people, I have other interests and hobbies that I enjoy:
+      - 3D Printing - Fun for tinkerers, 
+      - Electronics and Hardware Tinkering - Think Raspberry Pis and Arduinos
+      - Reading - Mostly Science Fiction these days
+      - Domestic and International Travel - I let my stomach guide me
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Here I am eating raw pickled herring in Museumplein in Amsterdam.
+
+      ![Amsterdam](\images\IMG_7815.jpeg "Amsterdam"){: width="350" }
+
 
 # Footer
 footer_show_references: true
