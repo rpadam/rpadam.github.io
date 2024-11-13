@@ -45,9 +45,9 @@ linkedin_username: raphaelpauladam
 # about_title: About Me
 about_profile_image: images/IMG_0764.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Raphael, and I'm an Engineering leader with 12 years of enterprise software experience and 7 years managing hybrid teams. I'm adept at driving developer productivity, infrastructure tooling, and scalability initiatives. I have a proven ability to lead high-performing teams, align technical strategy with business goals, and optimize engineering processes.
+  My name is Raphael. I'm an Engineering leader with 12 years of enterprise software experience and 7 years managing hybrid teams. I'm adept at driving developer productivity, infrastructure tooling, and scalability initiatives. I have a proven ability to lead high-performing teams, align technical strategy with business goals, and optimize engineering processes.
   
-  I am most skilled with: <mark>Developer Experiences</mark> and <mark>Change Management</mark>
+  I am skilled with: <mark>Developer Experiences</mark>, <mark>Service Monitoring</mark>, <mark>Process Improvements</mark>, <mark>Recruitment</mark>, and <mark>Change Management</mark>.
 
 content:
   # - title: Projects # Title for the section
@@ -92,7 +92,7 @@ content:
         quote: >
           Being in a Senior SDET role allowed me to lead teams and more formally mentor other engineers in the engineering organization.
         description: | # this will include new lines to allow paragraphs
-            As a Senior SDET, I guided engineers and teams in adopting testing frameworks, while also having opportunities to mentor and manage engineers.
+            As a Senior SDET, I supporting teams in adopting new test frameworks while mentoring and managing engineers.
       - layout: left
         title: Software Development Engineer in Test
         sub_title: Workiva
@@ -100,7 +100,7 @@ content:
         quote: >
           I was in the first batch of engineers to be given the title of SDET as a engineer who has a focus on scalable quality practices in the engineer organization. This formative phase in my career saw me and other SDETs forging what the role would become to this day.
         description: | # this will include new lines to allow paragraphs
-            TODO: Add Description.
+            
       - layout: left
         title: Quality Assurance Analyst Intern
         sub_title: WebFilings
