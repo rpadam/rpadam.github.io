@@ -137,6 +137,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       While a lot of my passions involve software and people, I have other interests and hobbies that I enjoy:
       - 3D Printing - Fun for tinkerers
+      - Homelab - I host a few servers and built my own router recently running OPNsense
       - Electronics and Hardware Tinkering - Think Raspberry Pis and Arduinos
       - Reading - Mostly Science Fiction these days
       - Domestic and International Travel - I let my stomach guide me
