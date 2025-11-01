@@ -118,7 +118,7 @@ content:
         description: |
             As IT Support and Front Desk at Neurology Specialists LLC, my responsibilities ranged from handling sensitive patient information and scheduling to addressing computer issues around the office.
 
-    - title: Education
+  - title: Education
     layout: list
     content:
       - layout: left
