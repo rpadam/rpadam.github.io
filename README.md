@@ -1,7 +1,34 @@
-Credit to [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) for making the building of this much easier.
+# rpadam.github.io
 
+Personal website for Raphael Adam.
 
-## Running Locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `http://localhost:4000`
+## Tech stack
+- Vite for local development and production build
+- Static multi-page HTML/CSS/JS
+- GitHub Pages deployment through GitHub Actions
+
+## Local development
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start local server:
+   ```bash
+   npm run dev
+   ```
+3. Open the local URL shown in the terminal (usually `http://localhost:5173`).
+
+## Build and preview
+```bash
+npm run build
+npm run preview
+```
+
+## Site structure
+- `/index.html` Home
+- `/experience/index.html` Experience + education
+- `/projects/index.html` Projects hub
+- `/projects/*.html` Individual project pages
+
+## Deployment
+The repository includes `.github/workflows/deploy-pages.yml` to build with Vite and deploy to GitHub Pages on push to `master`.
