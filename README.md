@@ -27,6 +27,7 @@ npm run preview
 ## Site structure
 - `/index.html` Home
 - `/experience/index.html` Experience + education
+- `/contact/index.html` Contact details
 - `/projects/index.html` Projects hub
 - `/projects/*.html` Individual project pages
 

@@ -140,7 +140,7 @@ img {
   grid-template-columns: 1.5fr 1fr;
   gap: 1.5rem;
   align-items: center;
-  margin-bottom: 1.75rem;
+  margin-bottom: 0;
 }
 
 .panel {
