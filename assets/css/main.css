@@ -151,13 +151,14 @@ img {
   padding: clamp(1rem, 2.2vw, 2rem);
 }
 
-.hero h1,
+h1,
 h2,
 h3 {
   margin-top: 0;
 }
 
 .hero h1,
+section h1,
 section h2,
 section h3 {
   font-family: 'Newsreader', Georgia, serif;
