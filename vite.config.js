@@ -11,7 +11,8 @@ export default defineConfig({
         projects: resolve(__dirname, 'projects/index.html'),
         developerExperience: resolve(__dirname, 'projects/developer-experience.html'),
         identityAccessManagement: resolve(__dirname, 'projects/identity-access-management.html'),
-        publicApis: resolve(__dirname, 'projects/public-apis.html')
+        publicApis: resolve(__dirname, 'projects/public-apis.html'),
+        pathShiftTd: resolve(__dirname, 'projects/path-shift-td.html')
       }
     }
   }

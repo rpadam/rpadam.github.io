@@ -29,7 +29,7 @@ npm run preview
 - `/experience/index.html` Experience + education
 - `/contact/index.html` Contact details
 - `/projects/index.html` Projects hub
-- `/projects/*.html` Individual project pages
+- `/projects/*.html` Individual project pages, including Path Shift TD
 
 ## Deployment
 The repository includes `.github/workflows/deploy-pages.yml` to build with Vite and deploy to GitHub Pages on push to `master`.
